@@ -4,4 +4,4 @@ making a file on github to have it pulled to local.
 and
 2 - I made a change to the same line of code but on github not locally
 then
-3 - after getting a merge conflict I ran diff and deleted the code I did not want and made changes then saved to resolve the conflict
+3 - after getting a merge conflict I ran diff and deleted the code I did not want and made changes then saved to resolve the conflict and pushed to github
